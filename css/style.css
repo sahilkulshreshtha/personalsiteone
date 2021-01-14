@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+ background-color: white;
+ font-weight: bolder;
+}
+
+div {
+  margin: 0;
+}
+
+h1 {
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  font-family: 'Loved by the King', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-size: 2.5rem;
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.top {
+  background-color: #EAF6F6;
+  margin: 0;
+  position: relative;
+  padding-top: 125px;
+}
+
+.web {
+  text-decoration: underline;
+}
+.web-line{
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile{
+  margin: 30px;
+}
+.profile-picture{
+ height: 200px;
+ width: 200px;
+ border-radius: 50%;
+ margin: 30px 0;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.first-div{
+  margin: 30px auto;
+}
+.skill-one{
+  width: 25%;
+  height:200px;
+  float: left;
+  margin-right: 30px;
+}
+.second-div{
+  margin: 80px auto;
+}
+.skill-two{
+  width: 25%;
+  height:200px;
+  float: right;
+  margin-right: 30px;
+}
+.btn {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 15px 20px;
+   background-color: #11999E;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px;
+}
+.divider{
+  width: 2.5%;
+  border-top:dotted;
+  border-bottom: none;
+ border-left: none;
+ border-right: none;
+ color: grey;
+ margin-top: 20px;
+}
+.text-under{
+  font-weight: 900;
+}
+.contact-me{
+  margin: 50px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 20px;
+}
+.footer-link{
+  text-decoration: none;
+  margin: 25px;
+}
+.footer-text{
+  color: #EAF6F6;
+}
